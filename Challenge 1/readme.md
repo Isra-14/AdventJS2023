@@ -1,8 +1,6 @@
 # Challenge 1: 🎁 First gift repeated!
 
-<p>
-<img src="https://shorturl.at/hszPV"/>
-</p>
+![Challenge1](/imgs/challenge1.jpg)
 
 In the toy factory of the North Pole, each toy has a unique identification number.
 
@@ -30,3 +28,6 @@ console.log(firstRepeatedId3) // 5
 ```
 
 <b style="color:#FFC800">Watch out!</b> The elves say this is a Google technical test.
+
+Photo by <a href="https://unsplash.com/es/@kadh?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kira auf der Heide</a> from <a href="https://unsplash.com/es/fotos/persona-que-muestra-la-caja-de-regalo-marron-IPx7J1n_xUc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  

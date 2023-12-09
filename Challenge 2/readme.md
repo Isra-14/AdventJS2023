@@ -1,8 +1,6 @@
 # Challenge 2: 🏭 We start the factory!
 
-<p>
-<img src="https://shorturl.at/rstAF"/>
-</p>
+![Challenge2](/imgs/challenge2.jpg)
 
 In Santa's workshop, the elves have a <b style="color:#FFC800">gift list</b> they wish to make and a limited set of materials.
 
