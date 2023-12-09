@@ -8,3 +8,4 @@
 | --  |     -----------------    | :-----------------: | :-------------: | :-------------------------: |
 | 01  | 🎁 First gift repeated! |         Easy        |  [Solution](/Challenge%201) | [See](https://adventjs.dev/en/challenges/2023/1) |
 | 02  | 🏭 We start the factory | Easy | [Solution](/Challenge%202) | [See](https://adventjs.dev/en/challenges/2023/2) |
+| 03  | 😏 The naughty elf | Easy | [Solution](/Challenge%203) | [See](https://adventjs.dev/en/challenges/2023/3) |
