@@ -12,10 +12,7 @@ function cyberReindeer(road, time){
       prev = tempRoad[santa + 1] === '*' ? '.' : tempRoad[santa + 1]
     }
     if (tempRoad[santa + 1] === '.' || tempRoad[santa + 1] === '*') {
-      if (santa === 0)
-        newRoad = prev + 'S' + tempRoad.substring(santa+2)
-      else
-        newRoad = tempRoad.substring(0, santa) + prev + 'S' + tempRoad.substring(santa+2)
+      newRoad = tempRoad.substring(0, santa) + prev + 'S' + tempRoad.substring(santa+2)
 
       prev = tempRoad[santa+1]
       result.push(newRoad)
