@@ -12,3 +12,4 @@
 | 04  | 😵‍💫 Turn the parentheses around  |        Medium       | [Solution](/Challenge%204/) | [See](https://adventjs.dev/en/challenges/2023/4) |
 | 05  | 🛷 Santa's CyberTruck           |        Medium       | [Solution](/Challenge%205/) | [See](https://adventjs.dev/en/challenges/2023/5) |
 | 06  | 🦌 The reindeer on trial        |         Easy        | [Solution](/Challenge%206/) | [See](https://adventjs.dev/en/challenges/2023/6) |
+| 07  | 📦 The 3D boxes                 |         Easy        | [Solution](/Challenge%207/) | [See](https://adventjs.dev/en/challenges/2023/7) |
