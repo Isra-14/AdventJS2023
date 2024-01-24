@@ -13,3 +13,4 @@
 | 05  | 🛷 Santa's CyberTruck           |        Medium       | [Solution](/Challenge%205/) | [See](https://adventjs.dev/en/challenges/2023/5) |
 | 06  | 🦌 The reindeer on trial        |         Easy        | [Solution](/Challenge%206/) | [See](https://adventjs.dev/en/challenges/2023/6) |
 | 07  | 📦 The 3D boxes                 |         Easy        | [Solution](/Challenge%207/) | [See](https://adventjs.dev/en/challenges/2023/7) |
+| 08  | 🏬 Sorting the warehouse        |        Medium       | [Solution](/Challenge%208/) | [See](https://adventjs.dev/en/challenges/2023/8) |
